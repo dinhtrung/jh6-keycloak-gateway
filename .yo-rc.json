@@ -27,7 +27,7 @@
     "languages": ["vi", "en"],
     "clientFramework": "angularX",
     "jhiPrefix": "jhi",
-    "jhipsterVersion": "6.6.0",
+    "jhipsterVersion": "6.7.1",
     "embeddableLaunchScript": false,
     "clientTheme": "none",
     "creationTimestamp": 1580199161026,
